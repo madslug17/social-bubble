@@ -6,7 +6,7 @@ Most of the rules can be summarized by the following key tenets
 - Sanitize hands after touching things
 - Try and maintain a six foot distance from people
 - Wear a mask when ambulatory or in a non-member indoor setting
-- **Cooper has immunity from any of the guidelines below**
+- If a member is exposed to a non-member who is exhibiting Covid-like symptoms a two-week social bubble break may be called
 
 ## Contact with people outside of social bubble
 
@@ -18,6 +18,7 @@ Outdoor social gatherings are permissable in both public and private spaces as l
 - The use of public bathrooms is allowed provided the member wears a mask and washes hands. Sanitizing hands after leaving the bathroom is encouraged
 - Food and dish sharing is allowed provided the member washes the dish and their hands afterwards
 - People outside of social bubble may enter a member's home for bathroom use provided they have a mask on and the bathroom area is disinfected before and after the social gathering
+- Cooper may be petted by people outside of the social bubble, but members must be wary of non-member exhibiting Covid-like symptoms
 
 ## Shopping
 
@@ -35,7 +36,7 @@ Outdoor social gatherings are permissable in both public and private spaces as l
 ## Exercise
 
 - Exercising without a mask is allowed in low population areas where the member can reasonably be expected to maintain a six-foot distance
-- When exercising in a high population area or in an area where the member suspects the six-foot distance rule may be broken
+- When exercising in a high population area or in an area where the member suspects the six-foot distance rule may be broken a mask must be worn
 
 ## Work
 
