@@ -36,7 +36,7 @@ Outdoor social gatherings are permissable in both public and private spaces as l
 ## Exercise
 
 - Exercising without a mask is allowed in low population areas where the member can reasonably be expected to maintain a six-foot distance
-- When exercising in a high population area or in an area where the member suspects the six-foot distance rule may be broken a mask must be worn
+- A mask must be worn when exercising in a high population area or in an area where the member suspects the six-foot distance rule may be broken
 
 ## Work
 
